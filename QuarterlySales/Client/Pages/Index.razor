@@ -1,0 +1,160 @@
+﻿@page "/"
+@inject NavigationManager nav
+@using QuarterlySales.Shared.Model
+@inject HttpClient Http
+<PageTitle>Quarterly Sales</PageTitle>
+
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light">
+        <a class="navbar-brand" href="#">Home</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                     @{int value =2;}
+                    <a class="nav-link" style="cursor:pointer" @onclick=" _=> Add(value)">Add Sales</a>
+                </li>
+                <li class="nav-item">
+                    @{int button =1;}
+                    <a class="nav-link" style="cursor:pointer" @onclick=" _=> Add(button)">Add Employees</a>
+                </li> 
+            </ul>
+        </div>
+    </nav>
+    <hr />
+
+    <h3>Quarterly Sales</h3>
+    
+    <form class="m-2 mt-4">
+        <EditForm Model="saleDetail" OnSubmit="GetFilterData">
+            <div class="form-group row">
+                <label for="Employee" class="col-sm-1 col-form-label">Employee :</label>
+                <div class="col-sm-2">
+                    <InputSelect type="text" class="form-control" id="Employee" placeholder="Select Employee" @bind-Value="saleDetail.employee">
+                        <option value="All">All</option>
+                        @foreach(var item in Employee)
+                        {
+                            <option>@item.employee</option>
+                        }
+                    </InputSelect>
+                </div>
+
+                <label for="Year" class="col-sm-1 col-form-label">Year :</label>
+                <div class="col-sm-2">
+                    <InputSelect type="text" class="form-control" id="Year" placeholder="Select Year" @bind-Value="saleDetail.year">
+                        <option value=null>All</option>
+                        @foreach (var item in Year)
+                        {
+                            <option>@item.year</option>
+                        }
+                    </InputSelect>
+                </div>
+
+                <label for="Quarter" class="col-sm-1 col-form-label">Quarter :</label>
+                <div class="col-sm-2">
+                    <InputSelect type="text" class="form-control" id="Quarter" placeholder="Select Year" @bind-Value="saleDetail.Quarter">
+                        <option value=null>All</option>
+                        @foreach (var item in Quater)
+                        {
+                            <option>@item.Quarter</option>
+                        }
+                    </InputSelect>
+                </div>
+    
+                <div class="col-sm-2 d-flex justify-content-around">
+                    <div class="col-sm-1">
+                        <button type="submit" class="btn btn-primary">Filter</button>
+                    </div>
+                    <div class="col-sm-1">
+                        <button type="reset" class="btn btn-primary" @onclick="Reset">Clear</button>
+                    </div>
+                </div>
+            </div>
+        </EditForm>
+    </form>
+
+
+    <table class="table mt-3">
+        <thead>
+            <tr>
+                <th scope="col">Year</th>
+                <th scope="col">Quarter</th>
+                <th scope="col">Employee</th>
+                <th scope="col">Amount</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var item in saleDetails)
+            {
+                <tr>
+                    <th>@item.year</th>
+                    <td>@item.Quarter</td>
+                    <td>@item.employee</td>
+                    <td>@item.amount</td>
+                </tr>
+            }
+            <tr>
+                <th>Total Sales</th>
+                <td></td>
+                <td></td>
+                <td>@Math.Round(total, 2)</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+@code
+{
+    public decimal total = 0;
+    public List<AddSale> saleDetails = new();
+    public AddSale saleDetail = new();
+    public List<AddSale> Employee = new();
+    public List<AddSale> Quater = new();
+    public List<AddSale> Year = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        total = 0;
+        Employee = await Quarter.GetemployeeList();
+        Quater = await Quarter.GeteQuarterList();
+        Year = await Quarter.GetYear();
+        saleDetail.employee = "All";
+        saleDetails = await Quarter.GetQuarter(saleDetail);
+        @foreach (var item in saleDetails)
+        {
+            total += Convert.ToDecimal(item.amount);
+        }
+    }
+
+    public async Task GetFilterData()
+    {
+        total = 0;
+        saleDetails = await Quarter.GetQuarter(saleDetail);
+        @foreach (var item in saleDetails)
+        {
+            total += Convert.ToDecimal(item.amount);
+        }
+    }
+
+    public async Task Reset()
+    {
+        total = 0;
+        saleDetail.employee = "All";
+        saleDetail.year = null;
+        saleDetail.Quarter = null;
+        saleDetails = await Quarter.GetQuarter(saleDetail);
+        @foreach (var item in saleDetails)
+        {
+            total += Convert.ToDecimal(item.amount);
+        }
+    }
+
+    void Add(int button)
+    {
+        if (button == 1) nav.NavigateTo("Employee/Add");
+        if (button == 2) nav.NavigateTo("Sales/Add");
+    }
+}

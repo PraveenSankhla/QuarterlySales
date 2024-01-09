@@ -1,0 +1,33 @@
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Shared\bin\Debug\net6.0\QuarterlySales.Shared.deps.json
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Shared\bin\Debug\net6.0\QuarterlySales.Shared.dll
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Shared\bin\Debug\net6.0\QuarterlySales.Shared.pdb
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Shared\obj\Debug\net6.0\QuarterlySales.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Shared\obj\Debug\net6.0\QuarterlySales.Shared.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Shared\obj\Debug\net6.0\QuarterlySales.Shared.AssemblyInfo.cs
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Shared\obj\Debug\net6.0\QuarterlySales.Shared.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Shared\obj\Debug\net6.0\QuarterlySales.Shared.dll
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Shared\obj\Debug\net6.0\refint\QuarterlySales.Shared.dll
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Shared\obj\Debug\net6.0\QuarterlySales.Shared.pdb
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Shared\obj\Debug\net6.0\ref\QuarterlySales.Shared.dll
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Shared\bin\Debug\net6.0\QuarterlySales.Shared.deps.json
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Shared\bin\Debug\net6.0\QuarterlySales.Shared.dll
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Shared\bin\Debug\net6.0\QuarterlySales.Shared.pdb
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Shared\obj\Debug\net6.0\QuarterlySales.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Shared\obj\Debug\net6.0\QuarterlySales.Shared.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Shared\obj\Debug\net6.0\QuarterlySales.Shared.AssemblyInfo.cs
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Shared\obj\Debug\net6.0\QuarterlySales.Shared.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Shared\obj\Debug\net6.0\QuarterlySales.Shared.dll
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Shared\obj\Debug\net6.0\refint\QuarterlySales.Shared.dll
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Shared\obj\Debug\net6.0\QuarterlySales.Shared.pdb
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Shared\obj\Debug\net6.0\ref\QuarterlySales.Shared.dll
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Shared\bin\Debug\net6.0\QuarterlySales.Shared.deps.json
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Shared\bin\Debug\net6.0\QuarterlySales.Shared.dll
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Shared\bin\Debug\net6.0\QuarterlySales.Shared.pdb
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Shared\obj\Debug\net6.0\QuarterlySales.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Shared\obj\Debug\net6.0\QuarterlySales.Shared.AssemblyInfoInputs.cache
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Shared\obj\Debug\net6.0\QuarterlySales.Shared.AssemblyInfo.cs
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Shared\obj\Debug\net6.0\QuarterlySales.Shared.csproj.CoreCompileInputs.cache
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Shared\obj\Debug\net6.0\QuarterlySales.Shared.dll
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Shared\obj\Debug\net6.0\refint\QuarterlySales.Shared.dll
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Shared\obj\Debug\net6.0\QuarterlySales.Shared.pdb
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Shared\obj\Debug\net6.0\ref\QuarterlySales.Shared.dll

@@ -1,0 +1,80 @@
+﻿@page "/Sales/Add"
+@inject NavigationManager nav
+@using QuarterlySales.Shared.Model;
+
+<div class="container">
+    <div class="m-1 mt-4">
+        <EditForm Model="sales">
+            <DataAnnotationsValidator />
+
+            <div class="mb-3 row">
+                <label for="Quarter" class="col-sm-3 col-md-3 col-form-label">Quarter</label>
+                <div class="col-sm-6 col-md-6">
+                    <InputNumber @bind-Value="sales.Quarter" id="Quarter" class="form-control" />
+                </div>
+                <span class="col-sm-3 col-md-3 text-danger"><ValidationMessage For="@(()=>sales.Quarter)" /></span>
+            </div>
+
+            <div class="mb-3 row">
+                <label for="subtotal" class="col-sm-3 col-md-3 col-form-label">Year</label>
+                <div class="col-sm-6 col-md-6">
+                    <InputNumber @bind-Value="sales.year" id="subtotal" class="form-control" />
+                </div>
+                <span class="col-sm-3 col-md-3 text-danger"><ValidationMessage For="@(()=>sales.year)" /></span>
+            </div>
+
+
+            <div class="mb-3 row">
+                <label for="subtotal" class="col-sm-3 col-md-3 col-form-label">Amount</label>
+                <div class="col-sm-6 col-md-6">
+                    <InputNumber @bind-Value="sales.amount" id="subtotal" class="form-control" />
+                </div>
+                <span class="col-sm-3 col-md-3 text-danger"><ValidationMessage For="@(()=>sales.amount)" /></span>
+            </div>
+
+
+            <div class="mb-3 row">
+                <label for="subtotal" class="col-sm-3 col-md-3 col-form-label">Employee</label>
+                <div class="col-sm-6 col-md-6">
+                    <InputSelect @bind-Value="sales.employee" id="subtotal" class="form-control">
+                        <option value="">Select Employee</option>
+                        @foreach (var item in saleDetails)
+                        {
+                            <option>@item.employee</option>
+                        }
+                    </InputSelect>
+                </div>
+                <span class="col-sm-3 col-md-3 text-danger"><ValidationMessage For="@(()=>sales.employee)" /></span>
+            </div>
+        </EditForm>
+
+        <div class="col-auto">
+            <button type="submit" @onclick="AddSale" class="btn btn-success fs-6 mx-3">Add</button>
+            <button type="reset" @onclick="Cancel" class="btn btn-success fs-6">Cancel</button>
+        </div>
+
+    </div>
+</div>
+
+@code
+{
+    AddSale sales = new();
+    public List<AddSale> saleDetails = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        saleDetails = await Quarter.GetemployeeList();
+    }
+
+    public async Task<AddSale> AddSale()
+    {
+        sales = new AddSale();
+        nav.NavigateTo("/");
+        return sales;
+    }
+
+    public void Cancel()
+    {
+        nav.NavigateTo("/");
+    }
+}

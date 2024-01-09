@@ -1,0 +1,159 @@
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\QuarterlySales.Client.staticwebassets.runtime.json
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\appsettings.json
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\QuarterlySales.Server.staticwebassets.runtime.json
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\QuarterlySales.Server.exe
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\QuarterlySales.Server.deps.json
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\QuarterlySales.Server.runtimeconfig.json
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\QuarterlySales.Server.dll
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\QuarterlySales.Server.pdb
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\QuarterlySales.Client.dll
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\QuarterlySales.Shared.dll
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\QuarterlySales.Client.pdb
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\QuarterlySales.Shared.pdb
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\QuarterlySales.Server.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\QuarterlySales.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\QuarterlySales.Server.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\QuarterlySales.Server.AssemblyInfo.cs
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\QuarterlySales.Server.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\QuarterlySales.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\QuarterlySales.Server.RazorAssemblyInfo.cache
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\QuarterlySales.Server.RazorAssemblyInfo.cs
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\staticwebassets\msbuild.QuarterlySales.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.QuarterlySales.Server.props
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.QuarterlySales.Server.props
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.QuarterlySales.Server.props
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\scopedcss\bundle\QuarterlySales.Server.styles.css
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\QuarterlySales.Server.csproj.CopyComplete
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\QuarterlySales.Server.dll
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\refint\QuarterlySales.Server.dll
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\QuarterlySales.Server.pdb
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\QuarterlySales.Server.genruntimeconfig.cache
+C:\Users\hp\Desktop\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\ref\QuarterlySales.Server.dll
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\appsettings.json
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\QuarterlySales.Client.staticwebassets.runtime.json
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\QuarterlySales.Server.staticwebassets.runtime.json
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\QuarterlySales.Server.exe
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\QuarterlySales.Server.deps.json
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\QuarterlySales.Server.runtimeconfig.json
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\QuarterlySales.Server.dll
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\QuarterlySales.Server.pdb
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\QuarterlySales.Client.dll
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\QuarterlySales.Shared.dll
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\QuarterlySales.Client.pdb
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\QuarterlySales.Shared.pdb
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\QuarterlySales.Server.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\QuarterlySales.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\QuarterlySales.Server.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\QuarterlySales.Server.AssemblyInfo.cs
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\QuarterlySales.Server.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\QuarterlySales.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\QuarterlySales.Server.RazorAssemblyInfo.cache
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\QuarterlySales.Server.RazorAssemblyInfo.cs
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\staticwebassets\msbuild.QuarterlySales.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.QuarterlySales.Server.props
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.QuarterlySales.Server.props
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.QuarterlySales.Server.props
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\scopedcss\bundle\QuarterlySales.Server.styles.css
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\QuarterlySales.Server.csproj.CopyComplete
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\QuarterlySales.Server.dll
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\refint\QuarterlySales.Server.dll
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\QuarterlySales.Server.pdb
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\QuarterlySales.Server.genruntimeconfig.cache
+C:\Users\hp\Desktop\QuarterlySalesProject\QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\ref\QuarterlySales.Server.dll
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\appsettings.Development.json
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\appsettings.json
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\QuarterlySales.Client.staticwebassets.runtime.json
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\QuarterlySales.Server.staticwebassets.runtime.json
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\QuarterlySales.Server.exe
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\QuarterlySales.Server.deps.json
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\QuarterlySales.Server.runtimeconfig.json
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\QuarterlySales.Server.dll
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\QuarterlySales.Server.pdb
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\QuarterlySales.Client.dll
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\QuarterlySales.Shared.dll
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\QuarterlySales.Client.pdb
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\bin\Debug\net6.0\QuarterlySales.Shared.pdb
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\QuarterlySales.Server.csproj.AssemblyReference.cache
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\QuarterlySales.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\QuarterlySales.Server.AssemblyInfoInputs.cache
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\QuarterlySales.Server.AssemblyInfo.cs
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\QuarterlySales.Server.csproj.CoreCompileInputs.cache
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\QuarterlySales.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\QuarterlySales.Server.RazorAssemblyInfo.cache
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\QuarterlySales.Server.RazorAssemblyInfo.cs
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\staticwebassets\msbuild.QuarterlySales.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.QuarterlySales.Server.props
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.QuarterlySales.Server.props
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.QuarterlySales.Server.props
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\staticwebassets.pack.json
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\staticwebassets.build.json
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\staticwebassets.development.json
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\scopedcss\bundle\QuarterlySales.Server.styles.css
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\QuarterlySales.Server.csproj.CopyComplete
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\QuarterlySales.Server.dll
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\refint\QuarterlySales.Server.dll
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\QuarterlySales.Server.pdb
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\QuarterlySales.Server.genruntimeconfig.cache
+D:\01. Projects\Freelancing\Project-04 QuaterSell\QuarterlySalesProject\02. QuarterlySales\QuarterlySales\Server\obj\Debug\net6.0\ref\QuarterlySales.Server.dll

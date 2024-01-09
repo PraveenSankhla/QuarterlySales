@@ -1,0 +1,89 @@
+﻿@page "/Employee/Add"
+@inject NavigationManager nav
+@using QuarterlySales.Shared.Model;
+
+<div class="container">
+    <div class="m-1 mt-4">
+        <EditForm Model="employee" OnValidSubmit="AddEmp">
+            <DataAnnotationsValidator />
+
+            <div class="mb-3 row">
+                <label for="subtotal" class="col-sm-3 col-md-3 col-form-label">First Name</label>
+                <div class="col-sm-6 col-md-6">
+                    <InputText @bind-Value="employee.firstname" id="subtotal" class="form-control" />
+                </div>
+                <span class="col-sm-3 col-md-3 text-danger"><ValidationMessage For="@(()=>employee.firstname)" /></span>
+            </div>
+
+            <div class="mb-3 row">
+                <label for="subtotal" class="col-sm-3 col-md-3 col-form-label">Last Name</label>
+                <div class="col-sm-6 col-md-6">
+                    <InputText @bind-Value="employee.lastname" id="subtotal" class="form-control" />
+                </div>
+                <span class="col-sm-3 col-md-3 text-danger"><ValidationMessage For="@(()=>employee.lastname)" /></span>
+            </div>
+
+
+            <div class="mb-3 row">
+                <label for="subtotal" class="col-sm-3 col-md-3 col-form-label">Birth Date</label>
+                <div class="col-sm-6 col-md-6">
+                    <InputDate @bind-Value="employee.dob" id="subtotal" class="form-control" />
+                </div>
+                <span class="col-sm-3 col-md-3 text-danger"><ValidationMessage For="@(()=>employee.dob)" /></span>
+            </div>
+
+
+            <div class="mb-3 row">
+                <label for="subtotal" class="col-sm-3 col-md-3 col-form-label">Hire Date</label>
+                <div class="col-sm-6 col-md-6">
+                    <InputDate @bind-Value="employee.hiredate" id="subtotal" class="form-control" />
+                </div>
+                <span class="col-sm-3 col-md-3 text-danger"><ValidationMessage For="@(()=>employee.hiredate)" /></span>
+            </div>
+
+            <div class="mb-3 row">
+                <label for="DiscountPercent" class="col-sm-3 col-md-3 col-form-label">Manager</label>
+                <div class="col-sm-6 col-md-6">
+                    <InputSelect @bind-Value="employee.manager" id="DiscountPercent" class="form-control">
+                        <option value="">Select Manager</option>
+                        @foreach (var item in EmployeeList)
+                        {
+                            <option>@item.employee</option>
+                        }
+                    </InputSelect>
+                </div>
+                <span class="col-sm-3 col-md-3  text-danger"><ValidationMessage For="@(()=>employee.manager)" /> </span>
+            </div>
+
+
+            <div class="col-auto">
+                <button type="submit" class="btn btn-success fs-6 mx-3">Add</button>
+                <button type="reset" @onclick="Cancel" class="btn btn-success fs-6">Cancel</button>
+            </div>
+        </EditForm>
+
+    </div>
+</div>
+
+@code
+{
+    AddEmp employee = new();
+    public List<AddSale> EmployeeList = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        EmployeeList = await Quarter.GetemployeeList();
+    }
+
+    public async Task<AddEmp> AddEmp()
+    {
+        employee = new AddEmp();
+        nav.NavigateTo("/");
+        return employee;
+    }
+
+    public void Cancel()
+    {
+        nav.NavigateTo("/");
+    }
+}
